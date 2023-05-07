@@ -43,5 +43,9 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
-  }
+  },
+  "description": "![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)",
+  "main": ".eslintrc.js",
+  "author": "",
+  "license": "ISC"
 }
